@@ -1,5 +1,5 @@
+import HtmlSchabloneBuyButton from "../htmlSchablone_buyButton/HtmlSchablone_buyButton.jsx";
 import "./HtmlSchablone.scss"
-
 
 
 
@@ -15,9 +15,9 @@ const HtmlSchablone = (props) => {
             <article>
                 <h3>{props.titel}</h3>
                 <p>{props.preis}</p>
-                <h4 id={props.uuid} >button</h4 >
-            </article>
+                <HtmlSchabloneBuyButton id={props.uuid}></HtmlSchabloneBuyButton>
 
+            </article>
         </section>
 
      );

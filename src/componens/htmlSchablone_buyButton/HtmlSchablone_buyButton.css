@@ -1,0 +1,11 @@
+button {
+  height: 40px;
+  width: 10vw;
+  background-color: rgba(232, 14, 14, 0.782);
+  color: white;
+  border-radius: 20px;
+}
+button:hover {
+  scale: 1.3;
+  background-color: green;
+}/*# sourceMappingURL=HtmlSchablone_buyButton.css.map */

@@ -44,5 +44,5 @@ console.log(obj_befüllt);
 
 
 
-export {obj_befüllt};
-export default {obj_befüllt};
+export { obj_befüllt };
+// export default { obj_befüllt };

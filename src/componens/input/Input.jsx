@@ -9,6 +9,6 @@ const bild_2 = bild2;
 
 
 export {bild_0, bild_1, bild_2};
-export default {bild_0, bild_1, bild_2};
+// export default {bild_0, bild_1, bild_2};
 
 
